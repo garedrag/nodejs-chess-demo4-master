@@ -47,7 +47,7 @@ var html = {
 };
 
 var env = Object.assign({
-  NODE_ENV: 'development',
+  NODE_ENV: 'production',
   API_URL: '//localhost:8081'
 }, process.env);
 
